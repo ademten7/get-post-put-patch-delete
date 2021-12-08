@@ -1,0 +1,23 @@
+{
+  "name": "Adem",
+  "users": [
+    {
+      "id": 7,
+      "email": "tobias.funke@reqres.com",
+      "first_name": "Adem",
+      "last_name": "Marco",
+      "avatar": "https://reqres.in/img/faces/9-image.jpg",
+      "address": "Kiel",
+      "country": "DE"
+    },
+    {
+      "id": 8,
+      "email": "lindsay.ferguson@reqres.in",
+      "first_name": "Lindsay",
+      "last_name": "Ferguson",
+      "avatar": "https://reqres.in/img/faces/8-image.jpg"
+    }
+  ],
+  "records": [],
+  "orders": []
+}
