@@ -1,53 +1,45 @@
 {
-  "users": [
-    {
-      "id": 7,
-      "email": "michael.lawson@reqres.in",
-      "first_name": "Michael",
-      "last_name": "Lawson",
-      "avatar": "https://reqres.in/img/faces/7-image.jpg"
-    },
-    {
-      "id": 8,
-      "email": "lindsay.ferguson@reqres.in",
-      "first_name": "Lindsay",
-      "last_name": "Ferguson",
-      "avatar": "https://reqres.in/img/faces/8-image.jpg"
-    },
-    {
-      "id": 9,
-      "email": "tobias.funke@reqres.in",
-      "first_name": "Tobias",
-      "last_name": "Funke",
-      "avatar": "https://reqres.in/img/faces/9-image.jpg"
-    },
-    {
-      "id": 10,
-      "email": "test.lawson@reqres.in",
-      "first_name": "Michael",
-      "last_name": "abc",
-      "avatar": "https://reqres.in/img/faces/7-image.jpg"
-    },
-    {
-      "id": 10,
-      "email": "test.lawson@reqres.in",
-      "first_name": "Michael",
-      "last_name": "abc",
-      "avatar": "https://reqres.in/img/faces/7-image.jpg"
-    },
-    {
-      "id": 12,
-      "first_name": "Adem",
-      "last_name": "Johnson",
-      "email": "ademtest@gmail.com",
-      "avatar": "https://reqres"
-    },
-    {
-      "id": 14,
-      "first_name": "Mark",
-      "last_name": "Johnson",
-      "email": "ademtest@gmail.com",
-      "avatar": "https://reqres"
-    }
-  ]
+    "users": [{
+            "id": 7,
+            "email": "michael.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "Lawson",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 8,
+            "email": "lindsay.ferguson@reqres.in",
+            "first_name": "Lindsay",
+            "last_name": "Ferguson",
+            "avatar": "https://reqres.in/img/faces/8-image.jpg"
+        },
+        {
+            "id": 9,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "test.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "abc",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 10,
+            "email": "test.lawson@reqres.in",
+            "first_name": "Michael",
+            "last_name": "abc",
+            "avatar": "https://reqres.in/img/faces/7-image.jpg"
+        },
+        {
+            "id": 12,
+            "email": "tobias.funke@reqres.in",
+            "first_name": "Tobias",
+            "last_name": "Funke",
+            "avatar": "https://reqres.in/img/faces/9-image.jpg"
+        }
+    ]
 }
